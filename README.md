@@ -12,9 +12,9 @@ this is a simple practice using java servlet that use java and MYSQL database. t
 
 
 ## Screenshots
-**1**
+## 1
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-**2**
+## 2
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 
