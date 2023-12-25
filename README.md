@@ -1,7 +1,7 @@
 
 # Simple bookstore using servlet
 
-this is a simple practice using java servlet that use java and MYSQL database. this simple practical project have a simple feature like storing books deleting from the database and editing the price the name and other information
+This is a simple practice using java servlet that use java and MYSQL database. this practical project have a simple feature like storing books deleting from the database and editing the price the name and other information
 
 
 ## Tech Stack
